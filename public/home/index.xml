@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Eva Johanna Degel</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Eva Johanna Degel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +1100</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +1100</pubDate>
+      
+      <guid>/home/hero/</guid>
+      <description>This is my professional portfolio. (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); }; })(); # function GetLatestReleaseInfo() { # $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { # let release = json[0]; # // let downloadURL = release.zipball_url; # $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); # }); }  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography Hi, welcome to my professional portfolio. This is the place where I present my interests and skills from past experience and ongoing work.
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</description>
+    </item>
+    
+    <item>
+      <title>Career</title>
+      <link>/home/career/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/career/</guid>
+      <description>Business Consultant and Algorithm Expert  (01-2016 - Today) Quintiq Pty Ldt a Dassault System Brand xxx  Research and Teaching Assistant  (10-2012 - 10-2015) Chair of Opterations Management, Prof. Dr. Grit Walther, RWTH Aachen University, Germany
+ (08-2010 - 10-2012) Chair of Production and Logistics, Prof. Dr. Grit Walther, University Wuppertal, Germany  Teaching Assistant  Mathe
+  Student Tutor  Mathe
+  PhD Studies and Research Thesis &amp;ldquo;Stratetig networkplanning under consideration of resource price ancertainties at the example of the collection and recycling of solar panels&amp;rdquo;(in German)</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

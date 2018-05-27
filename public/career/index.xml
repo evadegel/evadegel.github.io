@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Career on Eva Johanna Degel</title>
+    <link>/career/</link>
+    <description>Recent content in Career on Eva Johanna Degel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +1100</lastBuildDate>
+    
+	<atom:link href="/career/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Career</title>
+      <link>/career/career/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/career/career/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+ (01/2016 - Today) Business consultant and algorithm expert at Quintiq Pty Ldt a Dassault System Brand (07-2012 - 10&amp;frasl;2015) Reseach and Teaching Assistant, Chair of Opterations Management, Prof. Dr. Grit Walther, RWTH Aachen University, Germany  Business consultant and algorithm expert at Quintiq Pty Ldt a Dassault System Brand
+ - (01/2016 - Today)</description>
+    </item>
+    
+  </channel>
+</rss>
